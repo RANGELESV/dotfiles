@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ronald.angeles@pucp.edu.pe
+	name = Ronald Angeles
